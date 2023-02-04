@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Exploring python libraries <br>👯 Would love to collaborate on issues<br>🤝 I’m looking for help with Python and Flutter<br>⚡ Fun fact - Hehe ᓚᘏᗢ
+🔭 Exploring python libraries <br>👯 Would love to collaborate on issues<br>⚡ Fun fact - Hehe ᓚᘏᗢ
 
 
 # 💻 Tech Stack:
